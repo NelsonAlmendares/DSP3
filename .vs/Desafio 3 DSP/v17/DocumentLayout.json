@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nelso\\OneDrive\\Escritorio\\Universidad Don Bosco\\DSP\\Desafio 3 DSP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{485D7BEF-00DF-4963-8AEE-4A3A1D17012B}|Desafio 3 DSP\\Desafio 3 DSP.csproj|c:\\users\\nelso\\onedrive\\escritorio\\universidad don bosco\\dsp\\desafio 3 dsp\\desafio 3 dsp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{485D7BEF-00DF-4963-8AEE-4A3A1D17012B}|Desafio 3 DSP\\Desafio 3 DSP.csproj|solutionrelative:desafio 3 dsp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 168,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\Escritorio\\Universidad Don Bosco\\DSP\\Desafio 3 DSP\\Desafio 3 DSP\\appsettings.json",
+              "RelativeDocumentMoniker": "Desafio 3 DSP\\appsettings.json",
+              "ToolTip": "C:\\Users\\nelso\\OneDrive\\Escritorio\\Universidad Don Bosco\\DSP\\Desafio 3 DSP\\Desafio 3 DSP\\appsettings.json",
+              "RelativeToolTip": "Desafio 3 DSP\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T19:51:10.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
