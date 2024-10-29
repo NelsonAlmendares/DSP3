@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Desafio 3 DSP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb5807356431a42c2a6b1324268b4c82fd6f9f49")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Desafio 3 DSP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Desafio 3 DSP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

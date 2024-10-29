@@ -8613,23 +8613,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nelso\\.nuget\\packages\\": {},
+    "C:\\Users\\danie\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nelso\\OneDrive\\Escritorio\\Universidad Don Bosco\\DSP\\Desafio 3 DSP\\Desafio 3 DSP\\Desafio 3 DSP.csproj",
+      "projectUniqueName": "C:\\Users\\danie\\OneDrive\\Imágenes\\Documentos\\GitHub\\DSP3\\Desafio 3 DSP\\Desafio 3 DSP.csproj",
       "projectName": "Desafio 3 DSP",
-      "projectPath": "C:\\Users\\nelso\\OneDrive\\Escritorio\\Universidad Don Bosco\\DSP\\Desafio 3 DSP\\Desafio 3 DSP\\Desafio 3 DSP.csproj",
-      "packagesPath": "C:\\Users\\nelso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nelso\\OneDrive\\Escritorio\\Universidad Don Bosco\\DSP\\Desafio 3 DSP\\Desafio 3 DSP\\obj\\",
+      "projectPath": "C:\\Users\\danie\\OneDrive\\Imágenes\\Documentos\\GitHub\\DSP3\\Desafio 3 DSP\\Desafio 3 DSP.csproj",
+      "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\danie\\OneDrive\\Imágenes\\Documentos\\GitHub\\DSP3\\Desafio 3 DSP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\nelso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -8638,7 +8638,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -8651,11 +8650,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -8686,7 +8680,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
